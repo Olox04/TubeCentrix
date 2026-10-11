@@ -1,0 +1,8 @@
+
+fastapi
+uvicorn[standard]
+pandas
+emoji
+vaderSentiment
+google-api-python-client
+python-dotenv
